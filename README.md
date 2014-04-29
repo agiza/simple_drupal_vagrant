@@ -1,6 +1,6 @@
 simple_drupal_vagrant
 =
-Simple vagrant setups to quickly build a d7 environment. This is not to complete with better projects like  [Drupal Vagrant][http://drupal.org/project/vagrant], but this is really for me to jump start a new drupal VM, test some things, and then move on with life. 
+Simple vagrant setups to quickly build a d7 environment. This is not to complete with better projects like Drupal Vagrant (http://drupal.org/project/vagrant), but this is really for me to jump start a new drupal VM, test some things, and then move on with life. 
 
 
 How to use
