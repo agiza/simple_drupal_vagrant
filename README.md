@@ -21,7 +21,7 @@ Once in Guest machine
 
 Optional
 ==
-- Update Drush `drush self-update`
+- Update Drush `drush self-update` or `sudo drush self-update`
 
 In web root 
 ==
